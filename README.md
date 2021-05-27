@@ -20,10 +20,10 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-    <li>🏡 Currently working w/ React Native, React, Redux and GraphQL.</li>
-    <li>🧐 Learning about Flutter, Dart, Javascript and Software Engineering.</li>
-    <li>📝 I regulary write articles on <a href="https://dutra.dev">my blog</a>.</li>
-    <li>📙 Check out my <a href="https://docs.google.com/presentation/d/1dps0p7U0XoWZINuoluEQO-QG2-BiNTNFCoClgFBS9tc/edit?usp=sharing">resume</a>.</li>
+    <li>Currently working w/ React Native, React, Redux and GraphQL.</li>
+    <li>Learning about Flutter, Dart, Javascript and Software Engineering.</li>
+    <li>I regulary write articles on <a href="https://dutra.dev">my blog</a>.</li>
+    <li>Check out my <a href="https://docs.google.com/presentation/d/1dps0p7U0XoWZINuoluEQO-QG2-BiNTNFCoClgFBS9tc/edit?usp=sharing">resume</a>.</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <details>
@@ -40,7 +40,7 @@
     </ul>
 </details>
 <p><a target="_blank" href="https://dutra.dev">Read More</a></p>
-<h2>🚀 Some Tools I Use</h2>
+<h2>Some Tools that I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="react" width="25" height="25" />
