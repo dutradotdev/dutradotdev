@@ -18,14 +18,14 @@
     </a>
 </p>
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>A Few Quick Facts</h2>
 <ul>
     <li>Currently working w/ React Native, React, Redux and GraphQL.</li>
     <li>Learning about Flutter, Dart, Javascript and Software Engineering.</li>
     <li>I regulary write articles on <a href="https://dutra.dev">my blog</a>.</li>
     <li>Check out my <a href="https://docs.google.com/presentation/d/1dps0p7U0XoWZINuoluEQO-QG2-BiNTNFCoClgFBS9tc/edit?usp=sharing">resume</a>.</li>
 </ul>
-<h2>✒️ Recent Posts</h2>
+<h2>Recent Posts</h2>
 <details>
     <summary>Explore</summary>
     <ul>
