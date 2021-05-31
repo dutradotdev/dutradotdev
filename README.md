@@ -72,5 +72,3 @@
 
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=dutradotdev&show_icons=true&count_private=true" alt="dutradotdev" />
-
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=dutradotdev.dutradotdev" alt="visitors"></p>
