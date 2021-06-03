@@ -25,21 +25,6 @@
     <li>I regulary write articles on <a href="https://dutra.dev">my blog</a>.</li>
     <li>Check out my <a href="https://docs.google.com/presentation/d/1dps0p7U0XoWZINuoluEQO-QG2-BiNTNFCoClgFBS9tc/edit?usp=sharing">resume</a>.</li>
 </ul>
-<h2>Recent Posts</h2>
-<details>
-    <summary>Explore</summary>
-    <ul>
-        <li>
-            <a target="_blank" href="https://www.dutra.dev/design-patterns-em-javascript-a-s%C3%A9rie/">Design Patterns em Javascript — A série
-            </a>
-        </li>
-        <li>
-            <a target="_blank" href="https://www.dutra.dev/design-patterns-em-javascript-modulariza%C3%A7%C3%A3o-e-orienta%C3%A7%C3%A3o-a-objetos/">Design Patterns em Javascript — Modularização e Orientação a objetos
-            </a>
-        </li>
-    </ul>
-</details>
-<p><a target="_blank" href="https://dutra.dev">Read More</a></p>
 <h2>Some Tools that I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
