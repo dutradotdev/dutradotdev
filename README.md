@@ -1,9 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://dutra.dev/">Lucas Dutra</a></h2>
 <p>I'm currently a mobile/web software engineer at Midway based in Santo André, São Paulo. I am working on some side projects and studying philosophy and economics.</p>
 <p>
-    <a href="https://dutra.dev">
-        <img src="https://img.shields.io/badge/-dutra.dev-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://dutra.dev" alt="Website Badge">
-    </a>
     <a href="https://medium.com/@dutradotdev">
         <img src="https://img.shields.io/badge/-@dutradotdev-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@dutradotdev" alt="Medium Badge">
     </a>
