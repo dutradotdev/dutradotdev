@@ -23,4 +23,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.png" alt="bitcoin" width="25" height="25" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=dutradotdev&show_icons=true&count_private=true" alt="dutradotdev" />
